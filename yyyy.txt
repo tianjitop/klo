@@ -2,7 +2,7 @@
   "storeHouse": [
      {
       "sourceName": "🍓蜀山精选仓库🍓",
-      "sourceUrl": "https://gh.927223.xyz/https://raw.githubusercontent.com/tianjitop/klo/refs/heads/main/dfg.txt"
+      "sourceUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/klo/refs/heads/main/dfg.txt"
     },
       {
       "sourceName": "🍓小涛精选仓库🍓",
