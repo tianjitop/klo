@@ -5,16 +5,8 @@
       "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/tianjitop/llllo/refs/heads/main/api.json"
     },
     {
-      "name": "顺财📚gitee在线",
-      "url": "https://gitee.com/lsc800416/TV/raw/master/%E9%A1%BA%E8%B4%A2.jsonn"
-    },
-    {
       "name": "顺财📚github",
       "url": "https://ghfast.top/https://raw.githubusercontent.com/lishuncai8881/TVBox/main/顺财.json"
-    },
-    {
-      "name": "VIP📚在线",
-      "url": "clan://localhost/TVBox/顺财.txt"
     },
     {
       "name": "月光宝盒📚在线",
@@ -59,10 +51,6 @@
     {
       "name": "小马📚在线",
       "url": "https://szyyds.cn/tv/x.json"
-    },
-    {
-      "name": "O  K📚在线",
-      "url": "http://ok321.top/ok"
     },
     {
       "name": "俊佬📚在线",
