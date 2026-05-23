@@ -2,7 +2,7 @@
     "urls": [
         {
       "name": "蜀山📚在线",
-      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/tianjitop/llllo/refs/heads/main/api.json"
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/refs/heads/main/api.json"
       },
         {
             "name": "🧙‍♀️莱妮丝",
